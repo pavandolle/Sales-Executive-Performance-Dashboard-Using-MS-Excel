@@ -23,7 +23,6 @@ The objective of this project is to analyze sales executive performance across d
 
 
 ## Process
-
 1. Data Collection and Preparation
 
 2. Data Cleaning
