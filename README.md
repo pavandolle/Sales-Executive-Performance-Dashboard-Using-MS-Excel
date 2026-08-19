@@ -4,8 +4,8 @@
 
 The objective of this project is to analyze sales executive performance across different cities and identify top performers, target achievement, and executives who are away from their targets.
 
-## Datasets
-
+## Datasets used
+- <a href="https://github.com/pavandolle/Sales-Executive-Performance-Dashboard-Using-MS-Excel/blob/main/End%20to%20End%20Project%20using%20Excel.xlsm"> Dataset </a>
 
 ## Key Questions / KPIs
 
@@ -20,6 +20,7 @@ The objective of this project is to analyze sales executive performance across d
 -What is the sales contribution of individual executives?
 
 -Which executives need more focus to improve their performance?
+
 
 ## Process
 
@@ -42,6 +43,10 @@ The objective of this project is to analyze sales executive performance across d
 9. Dashboard Layout and Formatting
 
 10. Generating Business Insights
+
+## Dashboard
+
+<img width="1778" height="745" alt="End to End Project" src="https://github.com/user-attachments/assets/ff27612b-decc-4467-971b-dbaae672efb4" />
 
 ## Project Insights
 
